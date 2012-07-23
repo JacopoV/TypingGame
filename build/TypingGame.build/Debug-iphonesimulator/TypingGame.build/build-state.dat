@@ -1,0 +1,1164 @@
+TTypingGame
+v7
+r0
+t300297750.891280
+cCheck dependencies
+cProcessInfoPlistFile /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/Info.plist TypingGame-Info.plist
+cCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/TypingGame.app/icon.jpg icon.jpg
+cCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.xib
+cCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/MenuView.xib
+cCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/SettingView.xib
+cCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/PlayView.xib
+cCpResource build/Debug-iphonesimulator/TypingGame.app/time.png time.png
+cCpResource build/Debug-iphonesimulator/TypingGame.app/type.png type.png
+cCpResource build/Debug-iphonesimulator/TypingGame.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/TypingGame.app/combo.png combo.png
+cCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/UpdateView.xib
+cCpResource build/Debug-iphonesimulator/TypingGame.app/billboards.png billboards.png
+cCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/BillBoardsView.xib
+cProcessPCH /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch.gch TypingGame_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/main.o /Users/FOX/UniPD/iPhone/TypingGame/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGameAppDelegate.o /Users/FOX/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MultiViewController.o /Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MenuViewController.o /Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/SettingViewController.o /Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/PlayViewController.o /Users/FOX/UniPD/iPhone/TypingGame/PlayViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/BillBoardsViewController.o /Users/FOX/UniPD/iPhone/TypingGame/BillBoardsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/UpdateViewController.o /Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame normal i386
+cGenerateDSYMFile /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app.dSYM /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame
+cTouch /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C4084540000000000000132
+t1279296596
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/BillBoardsView.xib
+c000000004BFBACD300000000000076E1
+t1274784979
+s30433
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/BillBoardsViewController.h
+c000000004BFBAA550000000000000174
+t1274784341
+s372
+i<UIKit/UIKit.h>
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/BillBoardsViewController.m
+c000000004BFBBFB400000000000003F1
+t1274789812
+s1009
+i"BillBoardsViewController.h"
+i"TypingGameAppDelegate.h"
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.h
+c000000004BFB8B6400000000000004AD
+t1274776420
+s1197
+i<UIKit/UIKit.h>
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m
+c000000004BFCF45800000000000005E1
+t1274868824
+s1505
+i"TypingGameAppDelegate.h"
+i"MultiViewController.h"
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/Default.png
+c000000004BF26FDA0000000000028135
+t1274179546
+s164149
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MainWindow.xib
+c000000004BF1457B0000000000004D9C
+t1274103163
+s19868
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuView.xib
+c000000004BFB9EDE000000000000696C
+t1274781406
+s26988
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuViewController.h
+c000000004BFB9DDF00000000000002ED
+t1274781151
+s749
+i<UIKit/UIKit.h>
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuViewController.m
+c000000004BFBCEA50000000000000ACC
+t1274793637
+s2764
+i"MenuViewController.h"
+i"TypingGameAppDelegate.h"
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MultiViewController.h
+c000000004BF1581F0000000000000109
+t1274107935
+s265
+i<UIKit/UIKit.h>
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MultiViewController.m
+c000000004BFBA9BB0000000000000832
+t1274784187
+s2098
+i"MultiViewController.h"
+i"MenuViewController.h"
+i"SettingViewController.h"
+i"PlayViewController.h"
+i"UpdateViewController.h"
+i"BillBoardsViewController.h"
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MultiViewController.xib
+c000000004BF145840000000000003B15
+t1274103172
+s15125
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayView.xib
+c000000004BF2B03E0000000000008B24
+t1274196030
+s35620
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.h
+c000000004BF80AA400000000000003EB
+t1274546852
+s1003
+i<UIKit/UIKit.h>
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m
+c000000004BFCFCDA0000000000001D42
+t1274871002
+s7490
+i"PlayViewController.h"
+i"TypingGameAppDelegate.h"
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingView.xib
+c000000004BFB86EF0000000000007B0B
+t1274775279
+s31499
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingViewController.h
+c000000004BFB869C0000000000000306
+t1274775196
+s774
+i<UIKit/UIKit.h>
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingViewController.m
+c000000004BFB87DF0000000000000CD4
+t1274775519
+s3284
+i"SettingViewController.h"
+i"TypingGameAppDelegate.h"
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/TypingGame_Prefix.pch
+c000000004BF110B000000000000000BD
+t1274089648
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateView.xib
+c000000004BFBA75A00000000000063D3
+t1274783578
+s25555
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.h
+c000000004BFBA105000000000000023E
+t1274781957
+s574
+i<UIKit/UIKit.h>
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m
+c000000004BFBCF8500000000000009CE
+t1274793861
+s2510
+i"UpdateViewController.h"
+i"TypingGameAppDelegate.h"
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/billboards.png
+c000000004BFB9D110000000000000D83
+t1274780945
+s3459
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/bkg.png
+c000000004BF26FDA0000000000028135
+t1274179546
+s164149
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app
+t1275126499
+s646
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app.dSYM
+t1275126499
+s102
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/BillBoardsView.nib
+t1274784983
+s4512
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/Default.png
+t1274179658
+s164149
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/Info.plist
+t1274171408
+s639
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/MainWindow.nib
+t1274103176
+s1532
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/MenuView.nib
+t1274781409
+s3805
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/MultiViewController.nib
+t1274103176
+s1127
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/PkgInfo
+t1274171408
+s8
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/PlayView.nib
+t1274196037
+s5118
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/SettingView.nib
+t1274775281
+s5063
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame
+t1275126499
+s55236
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/UpdateView.nib
+t1274783581
+s3598
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/billboards.png
+t1274781190
+s3459
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/bkg.png
+t2
+s0
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/combo.png
+t1274195433
+s13317
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/fsfa.png
+t1274090541
+s152734
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/icon.jpg
+t1274090541
+s29369
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/time.png
+t1274171833
+s13338
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/type.png
+t1274173933
+s7058
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/BillBoardsViewController.o
+t1274789814
+s38124
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MenuViewController.o
+t1274793646
+s46280
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MultiViewController.o
+t1274784398
+s36832
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/PlayViewController.o
+t1275126498
+s63448
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/SettingViewController.o
+t1274776712
+s50272
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGame.LinkFileList
+c000000004BFBA96D0000000000000491
+t1274784109
+s1169
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGameAppDelegate.o
+t1274868825
+s47852
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/UpdateViewController.o
+t1274793861
+s45684
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/main.o
+t1274090543
+s5956
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/combo.png
+c000000004BF2AB7A0000000000003405
+t1274194810
+s13317
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/fsfa.png
+c000000004BED2362000000000002549E
+t1273832290
+s152734
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/icon.jpg
+c000000004BED09F100000000000072B9
+t1273825777
+s29369
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/main.m
+c000000004BF110B00000000000000162
+t1274089648
+s354
+i<UIKit/UIKit.h>
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/time.png
+c000000004BF25170000000000000341A
+t1274171760
+s13338
+
+N/Users/FOX/Desktop/UniPD/iPhone/TypingGame/type.png
+c000000004BF258EA0000000000001B92
+t1274173674
+s7058
+
+N/Users/FOX/UniPD/iPhone/TypingGame/BillBoardsView.xib
+c000000004BFBACD300000000000076E1
+t1274784979
+s30433
+
+N/Users/FOX/UniPD/iPhone/TypingGame/BillBoardsViewController.h
+c000000004BFBAA550000000000000174
+t1274784341
+s372
+i<UIKit/UIKit.h>
+
+N/Users/FOX/UniPD/iPhone/TypingGame/BillBoardsViewController.m
+c000000004BFBBFB400000000000003F1
+t1274789812
+s1009
+i"BillBoardsViewController.h"
+i"TypingGameAppDelegate.h"
+
+N/Users/FOX/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.h
+c000000004C2A0D5200000000000004AE
+t1277824338
+s1198
+i<UIKit/UIKit.h>
+
+N/Users/FOX/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m
+c000000004BFCF45800000000000005E1
+t1274868824
+s1505
+i"TypingGameAppDelegate.h"
+i"MultiViewController.h"
+
+N/Users/FOX/UniPD/iPhone/TypingGame/Default.png
+c000000004BF26FDA0000000000028135
+t1274179546
+s164149
+
+N/Users/FOX/UniPD/iPhone/TypingGame/MainWindow.xib
+c000000004BF1457B0000000000004D9C
+t1274103163
+s19868
+
+N/Users/FOX/UniPD/iPhone/TypingGame/MenuView.xib
+c000000004BFB9EDE000000000000696C
+t1274781406
+s26988
+
+N/Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.h
+c000000004BFB9DDF00000000000002ED
+t1274781151
+s749
+i<UIKit/UIKit.h>
+
+N/Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.m
+c000000004C41B8B90000000000000AF0
+t1279375545
+s2800
+i"MenuViewController.h"
+i"TypingGameAppDelegate.h"
+i"SettingViewController.h"
+
+N/Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.h
+c000000004BF1581F0000000000000109
+t1274107935
+s265
+i<UIKit/UIKit.h>
+
+N/Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.m
+c000000004C35DB0A0000000000000839
+t1278597898
+s2105
+i"MultiViewController.h"
+i"MenuViewController.h"
+i"SettingViewController.h"
+i"PlayViewController.h"
+i"UpdateViewController.h"
+i"BillBoardsViewController.h"
+
+N/Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.xib
+c000000004BF145840000000000003B15
+t1274103172
+s15125
+
+N/Users/FOX/UniPD/iPhone/TypingGame/PlayView.xib
+c000000004BF2B03E0000000000008B24
+t1274196030
+s35620
+
+N/Users/FOX/UniPD/iPhone/TypingGame/PlayViewController.h
+c000000004BF80AA400000000000003EB
+t1274546852
+s1003
+i<UIKit/UIKit.h>
+
+N/Users/FOX/UniPD/iPhone/TypingGame/PlayViewController.m
+c000000004C35F3E60000000000001D52
+t1278604262
+s7506
+i"PlayViewController.h"
+i"TypingGameAppDelegate.h"
+
+N/Users/FOX/UniPD/iPhone/TypingGame/SettingView.xib
+c000000004BFB86EF0000000000007B0B
+t1274775279
+s31499
+
+N/Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.h
+c000000004C286B540000000000000306
+t1277717332
+s774
+i<UIKit/UIKit.h>
+
+N/Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.m
+c000000004C35F2610000000000000CA6
+t1278603873
+s3238
+i"SettingViewController.h"
+i"TypingGameAppDelegate.h"
+
+N/Users/FOX/UniPD/iPhone/TypingGame/TypingGame_Prefix.pch
+c000000004BF110B000000000000000BD
+t1274089648
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/FOX/UniPD/iPhone/TypingGame/UpdateView.xib
+c000000004BFBA75A00000000000063D3
+t1274783578
+s25555
+
+N/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.h
+c000000004BFBA105000000000000023E
+t1274781957
+s574
+i<UIKit/UIKit.h>
+
+N/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m
+c000000004C35D7B700000000000009CE
+t1278597047
+s2510
+i"UpdateViewController.h"
+i"TypingGameAppDelegate.h"
+
+N/Users/FOX/UniPD/iPhone/TypingGame/billboards.png
+c000000004BFB9D110000000000000D83
+t1274780945
+s3459
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app
+t1278604263
+s646
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app.dSYM
+t1278604263
+s102
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/BillBoardsView.nib
+t1274784983
+s4512
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/Default.png
+t1274179658
+s164149
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/Info.plist
+t1274171408
+s639
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/MainWindow.nib
+t1274103176
+s1532
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/MenuView.nib
+t1274781409
+s3805
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/MultiViewController.nib
+t1274103176
+s1127
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/PkgInfo
+t1274171408
+s8
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/PlayView.nib
+t1274196037
+s5118
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/SettingView.nib
+t1274775281
+s5063
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame
+t1278604263
+s63696
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/UpdateView.nib
+t1274783581
+s3598
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/billboards.png
+t1274781190
+s3459
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/combo.png
+t1274195433
+s13317
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/icon.jpg
+t1274090541
+s29369
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/time.png
+t1274171833
+s13338
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/type.png
+t1274173933
+s7058
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/BillBoardsViewController.o
+t1278489665
+s44928
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MenuViewController.o
+t1278489664
+s54732
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MultiViewController.o
+t1278597899
+s42084
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/PlayViewController.o
+t1278604263
+s73048
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/SettingViewController.o
+t1278604111
+s59532
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGame.LinkFileList
+c000000004C285E6E0000000000000451
+t1277714030
+s1105
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGameAppDelegate.o
+t1278489664
+s59424
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/UpdateViewController.o
+t1278597143
+s53552
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/main.o
+t1278489664
+s6296
+
+N/Users/FOX/UniPD/iPhone/TypingGame/combo.png
+c000000004BF2AB7A0000000000003405
+t1274194810
+s13317
+
+N/Users/FOX/UniPD/iPhone/TypingGame/icon.jpg
+c000000004BED09F100000000000072B9
+t1273825777
+s29369
+
+N/Users/FOX/UniPD/iPhone/TypingGame/main.m
+c000000004BF110B00000000000000162
+t1274089648
+s354
+i<UIKit/UIKit.h>
+
+N/Users/FOX/UniPD/iPhone/TypingGame/time.png
+c000000004BF25170000000000000341A
+t1274171760
+s13338
+
+N/Users/FOX/UniPD/iPhone/TypingGame/type.png
+c000000004BF258EA0000000000001B92
+t1274173674
+s7058
+
+N/var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch.gch
+t1278489663
+s15232016
+
+N/var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-bzdgclfkvxmndefxhqwsxqibhfeu/TypingGame_Prefix.pch.gch
+t1274090542
+s13026768
+
+N/var/folders/xc/xcdub-SxHceIfdSvQ1ZXcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch.gch
+t2
+s0
+
+NTypingGame-Info.plist
+c000000004BF2500F0000000000000395
+t1274171407
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300297750#300297750#0(0"0(0#1#0"8612310464#0"0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/BillBoardsViewController.o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/BillBoardsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296482614.820737
+e296482614.973229
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/BillBoardsViewController.o
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/BillBoardsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/BillBoardsViewController.m296482614#296482614#0(0"0(0#0#69"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/BillBoardsViewController.m4300911832#2003"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-bzdgclfkvxmndefxhqwsxqibhfeu/TypingGame_Prefix.pch -c /Users/FOX/Desktop/UniPD/iPhone/TypingGame/BillBoardsViewController.m -o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/BillBoardsViewController.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/BillBoardsViewController.o /Users/FOX/UniPD/iPhone/TypingGame/BillBoardsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300182464.785442
+e300182465.072389
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/BillBoardsViewController.o
+x/Users/FOX/UniPD/iPhone/TypingGame/BillBoardsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/FOX/UniPD/iPhone/TypingGame/BillBoardsViewController.m300182464#300182465#0(0"0(0#0#61"/Users/FOX/UniPD/iPhone/TypingGame/BillBoardsViewController.m8594986112#1957"    cd /Users/FOX/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch -c /Users/FOX/UniPD/iPhone/TypingGame/BillBoardsViewController.m -o /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/BillBoardsViewController.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MenuViewController.o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296486446.633319
+e296486446.728708
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MenuViewController.o
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuViewController.m: In function '-[MenuViewController viewDidLoad]':
+o/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuViewController.m:71: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)
+lSLF07#2@71"Compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuViewController.m296486446#296486446#0(402"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuViewController.m: In function '-[MenuViewController viewDidLoad]':/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuViewController.m:71: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)1(22@210"'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)296486446#114#288#0(6@63"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuViewController.m296486437#71#0#71#0#33"'*' is deprecated (declared at *)0(0#0#63"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuViewController.m4300911832#1991"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-bzdgclfkvxmndefxhqwsxqibhfeu/TypingGame_Prefix.pch -c /Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuViewController.m -o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MenuViewController.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MenuViewController.o /Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300182464.102083
+e300182464.579787
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MenuViewController.o
+x/Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.m: In function '-[MenuViewController viewDidLoad]':
+o/Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.m:73: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)
+lSLF07#2@63"Compile /Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.m300182464#300182464#0(384"/Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.m: In function '-[MenuViewController viewDidLoad]':/Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.m:73: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)1(22@208"'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)300182464#106#278#0(6@55"/Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.m299410126#73#0#73#0#33"'*' is deprecated (declared at *)0(0#0#55"/Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.m8600801248#1945"    cd /Users/FOX/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch -c /Users/FOX/UniPD/iPhone/TypingGame/MenuViewController.m -o /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MenuViewController.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MultiViewController.o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/MultiViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296477197.954689
+e296477198.093200
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MultiViewController.o
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MultiViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/MultiViewController.m296477197#296477198#0(0"0(0#0#64"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MultiViewController.m4300911832#1993"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-bzdgclfkvxmndefxhqwsxqibhfeu/TypingGame_Prefix.pch -c /Users/FOX/Desktop/UniPD/iPhone/TypingGame/MultiViewController.m -o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MultiViewController.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MultiViewController.o /Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300290699.320622
+e300290699.484308
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MultiViewController.o
+x/Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.m300290699#300290699#0(0"0(0#0#56"/Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.m8612859104#1947"    cd /Users/FOX/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch -c /Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.m -o /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/MultiViewController.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/PlayViewController.o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296819296.582049
+e296819298.109370
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/PlayViewController.o
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m: In function '-[PlayViewController startTimeThread]':
+o/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m:166: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:357)
+o/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m:167: warning: format not a string literal and no format arguments
+lSLF07#2@71"Compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m296819296#296819298#0(538"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m: In function '-[PlayViewController startTimeThread]':/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m:166: warning: 'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:357)/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m:167: warning: format not a string literal and no format arguments2(22@211"'stringWithContentsOfFile:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:357)296819297#118#290#0(6@63"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m296563802#166#0#166#0#33"'*' is deprecated (declared at *)0(22@51"Format not a string literal and no format arguments296819297#408#130#0(6@63"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m296563802#167#0#167#0#51"format not a string literal and no format arguments0(0#0#63"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m7881659332434685952#1991"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-bzdgclfkvxmndefxhqwsxqibhfeu/TypingGame_Prefix.pch -c /Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayViewController.m -o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/PlayViewController.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/PlayViewController.o /Users/FOX/UniPD/iPhone/TypingGame/PlayViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300297063.116376
+e300297063.336366
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/PlayViewController.o
+x/Users/FOX/UniPD/iPhone/TypingGame/PlayViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/FOX/UniPD/iPhone/TypingGame/PlayViewController.m300297063#300297063#0(0"0(0#0#55"/Users/FOX/UniPD/iPhone/TypingGame/PlayViewController.m8601964704#1945"    cd /Users/FOX/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch -c /Users/FOX/UniPD/iPhone/TypingGame/PlayViewController.m -o /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/PlayViewController.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/SettingViewController.o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296469512.608892
+e296469512.724266
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/SettingViewController.o
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingViewController.m: In function '-[SettingViewController textFieldShouldReturn:]':
+o/Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingViewController.m:47: warning: control reaches end of non-void function
+lSLF07#2@74"Compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingViewController.m296469512#296469512#0(252"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingViewController.m: In function '-[SettingViewController textFieldShouldReturn:]':/Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingViewController.m:47: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function296469512#131#121#0(6@66"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingViewController.m296468319#47#0#47#0#40"control reaches end of non-void function0(0#0#66"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingViewController.m4300911832#1997"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-bzdgclfkvxmndefxhqwsxqibhfeu/TypingGame_Prefix.pch -c /Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingViewController.m -o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/SettingViewController.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/SettingViewController.o /Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300296910.473633
+e300296911.274613
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/SettingViewController.o
+x/Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.m: In function '-[SettingViewController textFieldShouldReturn:]':
+o/Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.m:47: warning: control reaches end of non-void function
+lSLF07#2@66"Compile /Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.m300296910#300296911#0(236"/Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.m: In function '-[SettingViewController textFieldShouldReturn:]':/Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.m:47: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function300296911#123#113#0(6@58"/Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.m300296673#47#0#47#0#40"control reaches end of non-void function0(0#0#58"/Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.m8609359456#1951"    cd /Users/FOX/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch -c /Users/FOX/UniPD/iPhone/TypingGame/SettingViewController.m -o /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/SettingViewController.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGameAppDelegate.o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296561624.850229
+e296561625.093717
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGameAppDelegate.o
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m296561624#296561625#0(0"0(0#0#74"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m4300911832#2005"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-bzdgclfkvxmndefxhqwsxqibhfeu/TypingGame_Prefix.pch -c /Users/FOX/Desktop/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m -o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGameAppDelegate.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGameAppDelegate.o /Users/FOX/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300182463.652695
+e300182464.101980
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGameAppDelegate.o
+x/Users/FOX/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/FOX/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m300182463#300182464#0(0"0(0#0#66"/Users/FOX/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m8604582144#1959"    cd /Users/FOX/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch -c /Users/FOX/UniPD/iPhone/TypingGame/Classes/TypingGameAppDelegate.m -o /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGameAppDelegate.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/UpdateViewController.o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296486661.340940
+e296486661.568575
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/UpdateViewController.o
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m: In function '-[UpdateViewController updateNow:]':
+o/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m:24: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)
+o/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m:27: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)
+o/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m:30: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)
+o/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m:43: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)
+lSLF07#2@73"Compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m296486661#296486661#0(1277"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m: In function '-[UpdateViewController updateNow:]':/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m:24: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m:27: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m:30: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m:43: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)4(22@210"'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)296486661#117#290#0(6@65"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m296486661#24#0#24#0#33"'*' is deprecated (declared at *)0(22@210"'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)296486661#407#290#0(6@65"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m296486661#27#0#27#0#33"'*' is deprecated (declared at *)0(22@210"'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)296486661#697#290#0(6@65"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m296486661#30#0#30#0#33"'*' is deprecated (declared at *)0(22@210"'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)296486661#987#290#0(6@65"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m296486661#43#0#43#0#33"'*' is deprecated (declared at *)0(0#0#65"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m4300911832#1995"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-bzdgclfkvxmndefxhqwsxqibhfeu/TypingGame_Prefix.pch -c /Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateViewController.m -o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/UpdateViewController.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/UpdateViewController.o /Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300289943.724747
+e300289943.955739
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/UpdateViewController.o
+x/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m: In function '-[UpdateViewController updateNow:]':
+o/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m:28: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)
+o/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m:31: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)
+o/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m:34: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)
+o/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m:47: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)
+lSLF07#2@65"Compile /Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m300289943#300289943#0(1229"/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m: In function '-[UpdateViewController updateNow:]':/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m:28: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m:31: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m:34: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m:47: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)4(22@208"'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)300289943#109#280#0(6@57"/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m300289847#28#0#28#0#33"'*' is deprecated (declared at *)0(22@208"'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)300289943#389#280#0(6@57"/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m300289847#31#0#31#0#33"'*' is deprecated (declared at *)0(22@208"'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)300289943#669#280#0(6@57"/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m300289847#34#0#34#0#33"'*' is deprecated (declared at *)0(22@208"'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)300289943#949#280#0(6@57"/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m300289847#47#0#47#0#33"'*' is deprecated (declared at *)0(0#0#57"/Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m8611196000#1949"    cd /Users/FOX/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch -c /Users/FOX/UniPD/iPhone/TypingGame/UpdateViewController.m -o /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/UpdateViewController.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/main.o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295783343.016966
+e295783343.209862
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/main.o
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/main.m295783343#295783343#0(0"0(0#0#49"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/main.m4300911832#1963"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-bzdgclfkvxmndefxhqwsxqibhfeu/TypingGame_Prefix.pch -c /Users/FOX/Desktop/UniPD/iPhone/TypingGame/main.m -o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/main.o0#
+
+CCompileC build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/main.o /Users/FOX/UniPD/iPhone/TypingGame/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300182463.650390
+e300182464.099943
+r1
+xCompileC
+xbuild/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/main.o
+x/Users/FOX/UniPD/iPhone/TypingGame/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/FOX/UniPD/iPhone/TypingGame/main.m300182463#300182464#0(0"0(0#0#41"/Users/FOX/UniPD/iPhone/TypingGame/main.m8607027488#1917"    cd /Users/FOX/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -include /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch -c /Users/FOX/UniPD/iPhone/TypingGame/main.m -o /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/FOX/Desktop/UniPD/iPhone/TypingGame/BillBoardsView.xib
+s296477782.903455
+e296477783.357577
+r1
+xCompileXIB
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/BillBoardsView.xib
+lSLF07#2@29"CompileXIB BillBoardsView.xib296477782#296477783#0(0"0(0#0#61"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/BillBoardsView.xib4300911832#505"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/BillBoardsView.nib /Users/FOX/Desktop/UniPD/iPhone/TypingGame/BillBoardsView.xib0#
+
+CCompileXIB /Users/FOX/Desktop/UniPD/iPhone/TypingGame/MainWindow.xib
+s295795975.707953
+e295795976.108029
+r1
+xCompileXIB
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib295795975#295795976#0(0"0(0#0#57"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MainWindow.xib4300911832#497"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/MainWindow.nib /Users/FOX/Desktop/UniPD/iPhone/TypingGame/MainWindow.xib0#
+
+CCompileXIB /Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuView.xib
+s296474209.255993
+e296474209.684814
+r1
+xCompileXIB
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuView.xib
+lSLF07#2@23"CompileXIB MenuView.xib296474209#296474209#0(0"0(0#0#55"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuView.xib4300911832#493"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/MenuView.nib /Users/FOX/Desktop/UniPD/iPhone/TypingGame/MenuView.xib0#
+
+CCompileXIB /Users/FOX/Desktop/UniPD/iPhone/TypingGame/MultiViewController.xib
+s295795975.709423
+e295795976.069806
+r1
+xCompileXIB
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MultiViewController.xib
+lSLF07#2@34"CompileXIB MultiViewController.xib295795975#295795976#0(0"0(0#0#66"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/MultiViewController.xib4300911832#515"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/MultiViewController.nib /Users/FOX/Desktop/UniPD/iPhone/TypingGame/MultiViewController.xib0#
+
+CCompileXIB /Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayView.xib
+s295888836.573939
+e295888837.569742
+r1
+xCompileXIB
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayView.xib
+lSLF07#2@23"CompileXIB PlayView.xib295888836#295888837#0(0"0(0#0#55"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayView.xib4300911832#493"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/PlayView.nib /Users/FOX/Desktop/UniPD/iPhone/TypingGame/PlayView.xib0#
+
+CCompileXIB /Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingView.xib
+s296468080.420105
+e296468081.513844
+r1
+xCompileXIB
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@26"CompileXIB SettingView.xib296468080#296468081#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingView.xib32651556867473508#499"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/SettingView.nib /Users/FOX/Desktop/UniPD/iPhone/TypingGame/SettingView.xib0#
+
+CCompileXIB /Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateView.xib
+s296476379.206142
+e296476381.160079
+r1
+xCompileXIB
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateView.xib
+lSLF07#2@25"CompileXIB UpdateView.xib296476379#296476381#0(0"0(0#0#57"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateView.xib4300911832#497"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/UpdateView.nib /Users/FOX/Desktop/UniPD/iPhone/TypingGame/UpdateView.xib0#
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/BillBoardsView.xib
+r0
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/MainWindow.xib
+r0
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/MenuView.xib
+r0
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.xib
+r0
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/PlayView.xib
+r0
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/SettingView.xib
+r0
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/UpdateView.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/TypingGame.app/Default.png Default.png
+s295872458.223958
+e295872458.307455
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TypingGame.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png295872458#295872458#0(0"0(0#0#54"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/Default.png4300911832#470"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/FOX/Desktop/UniPD/iPhone/TypingGame/Default.png /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app0#
+
+CCpResource build/Debug-iphonesimulator/TypingGame.app/billboards.png billboards.png
+s296473990.566025
+e296473990.625943
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TypingGame.app/billboards.png
+xbillboards.png
+lSLF07#2@19"Copy billboards.png296473990#296473990#0(0"0(0#0#57"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/billboards.png30399761348100192#473"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/FOX/Desktop/UniPD/iPhone/TypingGame/billboards.png /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app0#
+
+CCpResource build/Debug-iphonesimulator/TypingGame.app/bkg.png bkg.png
+r0
+
+CCpResource build/Debug-iphonesimulator/TypingGame.app/combo.png combo.png
+s295888233.817259
+e295888233.899692
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TypingGame.app/combo.png
+xcombo.png
+lSLF07#2@14"Copy combo.png295888233#295888233#0(0"0(0#0#52"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/combo.png4300911832#468"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/FOX/Desktop/UniPD/iPhone/TypingGame/combo.png /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app0#
+
+CCpResource build/Debug-iphonesimulator/TypingGame.app/fsfa.png fsfa.png
+s295783341.664613
+e295783341.672510
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TypingGame.app/fsfa.png
+xfsfa.png
+lSLF07#2@13"Copy fsfa.png295783341#295783341#0(0"0(0#0#51"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/fsfa.png4300911832#467"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/FOX/Desktop/UniPD/iPhone/TypingGame/fsfa.png /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app0#
+
+CCpResource build/Debug-iphonesimulator/TypingGame.app/icon.jpg icon.jpg
+s295783341.665358
+e295783341.676784
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TypingGame.app/icon.jpg
+xicon.jpg
+lSLF07#2@13"Copy icon.jpg295783341#295783341#0(0"0(0#0#51"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/icon.jpg4300911832#467"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/FOX/Desktop/UniPD/iPhone/TypingGame/icon.jpg /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app0#
+
+CCpResource build/Debug-iphonesimulator/TypingGame.app/time.png time.png
+s295864633.361456
+e295864633.456380
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TypingGame.app/time.png
+xtime.png
+lSLF07#2@13"Copy time.png295864633#295864633#0(0"0(0#0#51"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/time.png4300911832#467"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/FOX/Desktop/UniPD/iPhone/TypingGame/time.png /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app0#
+
+CCpResource build/Debug-iphonesimulator/TypingGame.app/type.png type.png
+s295866733.811250
+e295866733.903021
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TypingGame.app/type.png
+xtype.png
+lSLF07#2@13"Copy type.png295866733#295866734#0(0"0(0#0#51"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/type.png4300911832#467"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/FOX/Desktop/UniPD/iPhone/TypingGame/type.png /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app0#
+
+CGenerateDSYMFile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app.dSYM /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame
+s296819299.101592
+e296819299.306089
+r1
+xGenerateDSYMFile
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app.dSYM
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/TypingGame.app.dSYM build/Debug-iphonesimulator/TypingGame.app/TypingGame296819299#296819299#0(0"0(0#0#96"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame4300911832#404"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame -o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app.dSYM0#
+
+CGenerateDSYMFile /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app.dSYM /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame
+s300297063.371346
+e300297063.444853
+r1
+xGenerateDSYMFile
+x/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app.dSYM
+x/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/TypingGame.app.dSYM build/Debug-iphonesimulator/TypingGame.app/TypingGame300297063#300297063#0(0"0(0#0#88"/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame8612909440#380"    cd /Users/FOX/UniPD/iPhone/TypingGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame -o /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app.dSYM0#
+
+CLd /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame normal i386
+s296819298.109766
+e296819299.101460
+r1
+xLd
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame
+xnormal
+xi386
+lSLF07#2@101"Link /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame296819298#296819299#0(0"0(0#0#0"32932993188560964#899"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -F/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -filelist /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGame.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame0#
+
+CLd /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame normal i386
+s300297063.336473
+e300297063.371241
+r1
+xLd
+x/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame
+xnormal
+xi386
+lSLF07#2@93"Link /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame300297063#300297063#0(0"0(0#0#0"8614341536#895"    cd /Users/FOX/UniPD/iPhone/TypingGame    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -F/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -filelist /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/Objects-normal/i386/TypingGame.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/TypingGame0#
+
+CProcessInfoPlistFile /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/Info.plist TypingGame-Info.plist
+s295864208.662643
+e295864208.716174
+r1
+xProcessInfoPlistFile
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/Info.plist
+xTypingGame-Info.plist
+lSLF07#2@29"Process TypingGame-Info.plist295864208#295864208#0(0"0(0#0#64"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/TypingGame-Info.plist4300911832#500"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TypingGame-Info.plist -genpkginfo /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app/Info.plist TypingGame-Info.plist
+r0
+
+CProcessPCH /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch.gch TypingGame_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300182460.535694
+e300182463.649915
+r1
+xProcessPCH
+x/var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch.gch
+xTypingGame_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile TypingGame_Prefix.pch300182460#300182463#0(0"0(0#0#56"/Users/FOX/UniPD/iPhone/TypingGame/TypingGame_Prefix.pch7308604729598044160#1810"    cd /Users/FOX/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -c /Users/FOX/UniPD/iPhone/TypingGame/TypingGame_Prefix.pch -o /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-bzdgclfkvxmndefxhqwsxqibhfeu/TypingGame_Prefix.pch.gch TypingGame_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295783342.135598
+e295783343.016843
+r1
+xProcessPCH
+x/var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-bzdgclfkvxmndefxhqwsxqibhfeu/TypingGame_Prefix.pch.gch
+xTypingGame_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile TypingGame_Prefix.pch295783342#295783343#0(0"0(0#0#64"/Users/FOX/Desktop/UniPD/iPhone/TypingGame/TypingGame_Prefix.pch4300911832#1848"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-generated-files.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-own-target-headers.hmap -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-all-target-headers.hmap -iquote /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/TypingGame-project-headers.hmap -F/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/include -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources/i386 -I/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/TypingGame.build/Debug-iphonesimulator/TypingGame.build/DerivedSources -c /Users/FOX/Desktop/UniPD/iPhone/TypingGame/TypingGame_Prefix.pch -o /var/folders/3g/3gkJN32PFuCojDNicq4o1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TypingGame_Prefix-bzdgclfkvxmndefxhqwsxqibhfeu/TypingGame_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/xc/xcdub-SxHceIfdSvQ1ZXcU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TypingGame_Prefix-aqrmsenvipvcuwdxurvtwomixvvj/TypingGame_Prefix.pch.gch TypingGame_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app
+s296819299.306206
+e296819299.309633
+r1
+xTouch
+x/Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app
+lSLF07#2@91"Touch /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app296819299#296819299#0(0"0(0#0#0"4300911832#289"    cd /Users/FOX/Desktop/UniPD/iPhone/TypingGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FOX/Desktop/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app0#
+
+CTouch /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app
+s300297063.444968
+e300297063.448671
+r1
+xTouch
+x/Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app
+lSLF07#2@83"Touch /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app300297063#300297063#0(0"0(0#0#0"8612822752#273"    cd /Users/FOX/UniPD/iPhone/TypingGame    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/FOX/UniPD/iPhone/TypingGame/build/Debug-iphonesimulator/TypingGame.app0#
+

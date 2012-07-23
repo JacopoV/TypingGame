@@ -1,0 +1,188 @@
+TTypingGame
+v7
+r1
+cCheck dependencies
+
+N/Users/FOX/UniPD/iPhone/TypingGame/BillBoardsView.xib
+c000000004BFBACD300000000000076E1
+t1274784979
+s30433
+
+N/Users/FOX/UniPD/iPhone/TypingGame/Default.png
+c000000004BF26FDA0000000000028135
+t1274179546
+s164149
+
+N/Users/FOX/UniPD/iPhone/TypingGame/MainWindow.xib
+c000000004BF1457B0000000000004D9C
+t1274103163
+s19868
+
+N/Users/FOX/UniPD/iPhone/TypingGame/MenuView.xib
+c000000004BFB9EDE000000000000696C
+t1274781406
+s26988
+
+N/Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.xib
+c000000004BF145840000000000003B15
+t1274103172
+s15125
+
+N/Users/FOX/UniPD/iPhone/TypingGame/PlayView.xib
+c000000004BF2B03E0000000000008B24
+t1274196030
+s35620
+
+N/Users/FOX/UniPD/iPhone/TypingGame/SettingView.xib
+c000000004BFB86EF0000000000007B0B
+t1274775279
+s31499
+
+N/Users/FOX/UniPD/iPhone/TypingGame/UpdateView.xib
+c000000004BFBA75A00000000000063D3
+t1274783578
+s25555
+
+N/Users/FOX/UniPD/iPhone/TypingGame/billboards.png
+c000000004BFB9D110000000000000D83
+t1274780945
+s3459
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Info.plist
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/BillBoardsView.nib
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/MenuView.nib
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/MultiViewController.nib
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/PlayView.nib
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/SettingView.nib
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/UpdateView.nib
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/billboards.png
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/combo.png
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/icon.jpg
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/time.png
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Resources/type.png
+t2
+s0
+
+N/Users/FOX/UniPD/iPhone/TypingGame/combo.png
+c000000004BF2AB7A0000000000003405
+t1274194810
+s13317
+
+N/Users/FOX/UniPD/iPhone/TypingGame/icon.jpg
+c000000004BED09F100000000000072B9
+t1273825777
+s29369
+
+N/Users/FOX/UniPD/iPhone/TypingGame/time.png
+c000000004BF25170000000000000341A
+t1274171760
+s13338
+
+N/Users/FOX/UniPD/iPhone/TypingGame/type.png
+c000000004BF258EA0000000000001B92
+t1274173674
+s7058
+
+NTypingGame-Info.plist
+c000000004BF2500F0000000000000395
+t1274171407
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299406339#299406339#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1.3'1(4@60"error: There is no SDK with the name or path 'iphoneos3.1.3'299406339#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/BillBoardsView.xib
+r0
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/MainWindow.xib
+r0
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/MenuView.xib
+r0
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/MultiViewController.xib
+r0
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/PlayView.xib
+r0
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/SettingView.xib
+r0
+
+CCompileXIB /Users/FOX/UniPD/iPhone/TypingGame/UpdateView.xib
+r0
+
+CCpResource build/Debug/TypingGame.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/TypingGame.app/Contents/Resources/billboards.png billboards.png
+r0
+
+CCpResource build/Debug/TypingGame.app/Contents/Resources/combo.png combo.png
+r0
+
+CCpResource build/Debug/TypingGame.app/Contents/Resources/icon.jpg icon.jpg
+r0
+
+CCpResource build/Debug/TypingGame.app/Contents/Resources/time.png time.png
+r0
+
+CCpResource build/Debug/TypingGame.app/Contents/Resources/type.png type.png
+r0
+
+CProcessInfoPlistFile /Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app/Contents/Info.plist TypingGame-Info.plist
+r0
+
+CTouch /Users/FOX/UniPD/iPhone/TypingGame/build/Debug/TypingGame.app
+r0
+
